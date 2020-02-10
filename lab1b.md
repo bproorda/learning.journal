@@ -12,6 +12,7 @@
 ## Tips for finding and maintaining a Growth Mindset ##
 
   As a growth mindset is very different from how we normally approach things, it can be difficult use and keep. Below are some thoughts to help keep me (and you) in the right mindset.
+  
     1. ** Go towards your challenges **
          - When you are in the _fixed mindset_ and you run in a wall, you stop and turn around, believing that is impossible to get                  past that wall. You _avoid_ the problem, which is very easy to do and do often. You can end up like a rat in a maze,                    getting nowhere, frustrated and depressed.
            - For the _Growth Mindset_ when you see a problem, like a wall, you don't turn around and walk away. You approach it. You                    embrace the challenge and look for the solution.
