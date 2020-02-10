@@ -1,1 +1,3 @@
-# this is for lab 1b
+# Lab 1B: A Growth Mindset.
+
+
