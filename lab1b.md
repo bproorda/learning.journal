@@ -7,7 +7,7 @@
 
   The best way to understand a _growth mindset_ is to start with its opposite, the _fixed mindset_. This is the more predominant belief, for now anyway. It is a kind of genetic fatalism, you are what you got. Your intelligence, physical abilities, creativity, are all determined by your genes and maybe your environment as a child. Even if they do include the enivornment as being a factor, after you reach adulthood, you are fixed. Your life and brain are carved into stone and unchangable.
   
-  The _growth mindset_ is the opposite. You are not fixed, but every day is a new starting point. Modern neuroscience has discovered that brain is constantly changing and rewiring itself. In other words, if you wish to learn something, an instrument, calculus, coding, etc. All you need to do is perserve and you neurons will reshape themselves to accommadate you. 
+  The _growth mindset_ is the opposite. You are not fixed, but every day is a new starting point. Modern neuroscience has discovered that brain is constantly changing and rewiring itself. In other words, if you wish to learn something, an instrument, calculus, coding, etc. All you need to do is perserve and your neurons will reshape themselves to accommadate you. 
   
 ## Tips for finding and maintaining a Growth Mindset ##
 
