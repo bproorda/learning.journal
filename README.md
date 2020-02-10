@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 [My Git Hub Page](https://bproorda.github.io/learning.journal/)
 
-Table of Contents
+#Table of Contents#
+
 -[Learning Journal Lab 1b](lab1b.md)
 
 You can use the [editor on GitHub](https://github.com/bproorda/learning.journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
