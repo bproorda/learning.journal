@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[My Git Hub Page(https://bproorda.github.io/learning.journal/)
+[My Git Hub Page](https://bproorda.github.io/learning.journal/)
 
 Table of Contents
 -[Learning Journal Lab 1b](lab1b.md)
