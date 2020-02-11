@@ -1,6 +1,6 @@
-# Notes on Markdown #
+## Notes on Markdown ##
 
-Markdown: A way to style text on the web, GitHub
+**Markdown** : A way to style text on the web, GitHub
 
 - Files saved as .md file then converted, symbol operators modify text.
   - uses non-alphanumeric characters, *, #, etc
