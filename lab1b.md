@@ -1,3 +1,5 @@
+[Home](https://bproorda.github.io/learning.journal/)
+
 # Lab 1B: A Growth Mindset.
 
 >"Our greatest weakness lies in giving up. The most certain way to succed is to always try just one more time."
