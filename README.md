@@ -4,6 +4,9 @@
 ### Table of Contents ###
 
 -[Learning Journal: Lab 1b A Growth Mindset](lab1b.md)
+-[Learning Journal: Markdown notes/reflection](ReflectionFeb10Markdown.md)
+-[Learning Journal: Coders Computer Reflection](CodersComputer.md)
+-[Linux Cheat Sheet](LinuxCheatSheet.md)
 
 You can use the [editor on GitHub](https://github.com/bproorda/learning.journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
