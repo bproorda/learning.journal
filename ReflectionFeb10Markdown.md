@@ -1,3 +1,5 @@
+[Home](https://bproorda.github.io/learning.journal/)
+
 ## Notes on Markdown ##
 
 **Markdown** : A way to style text on the web, GitHub

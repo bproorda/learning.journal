@@ -1,3 +1,5 @@
+[Home](https://bproorda.github.io/learning.journal/)
+
 ## Comparison of Text Editors ##
 - Basic
   - usually pre-installed text editors. Word, notepad etc. No coding specific features
