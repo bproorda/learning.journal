@@ -7,6 +7,7 @@
 - [Learning Journal: Markdown notes/reflection](ReflectionFeb10Markdown.md)
 - [Learning Journal: Coders Computer Reflection](CodersComputer.md)
 - [Linux Cheat Sheet](LinuxCheatSheet.md)
+- [Learning Journal: Read 03 Git](Read03GitReflection.md)
 
 
 
