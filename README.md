@@ -6,8 +6,9 @@
 - [Learning Journal: Lab 1b A Growth Mindset](lab1b.md)
 - [Learning Journal: Markdown notes/reflection](ReflectionFeb10Markdown.md)
 - [Learning Journal: Coders Computer Reflection](CodersComputer.md)
-- [Linux Cheat Sheet](LinuxCheatSheet.md)
 - [Learning Journal: Read 03 Git](Read03GitReflection.md)
+- [Learning Journal: Read 04 Structuring Websites](Read04StructuringWebsites.md)
+- [Linux Cheat Sheet](LinuxCheatSheet.md)
 
 
 
