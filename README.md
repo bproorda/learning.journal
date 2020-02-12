@@ -9,6 +9,7 @@
 - [Learning Journal: Read 03 Git](Read03GitReflection.md)
 - [Learning Journal: Read 04 Structuring Websites](Read04StructuringWebsites.md)
 - [Learning Journal: Read 05 CSS and Colors](Read05css.md)
+- [Learning Journal: Read 06a Javascript](Read06ajs.md)
 - [Linux Cheat Sheet](LinuxCheatSheet.md)
 
 
