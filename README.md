@@ -10,6 +10,7 @@
 - [Learning Journal: Read 04 Structuring Websites](Read04StructuringWebsites.md)
 - [Learning Journal: Read 05 CSS and Colors](Read05css.md)
 - [Learning Journal: Read 06a Javascript](Read06ajs.md)
+- [Learning Journal: Read 06b Computers](Read06bcomputers.md)
 - [Linux Cheat Sheet](LinuxCheatSheet.md)
 
 
