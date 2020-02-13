@@ -19,5 +19,21 @@
     - example of _calling_ a method
        >```object.method(parameters);```
        >```document.write('Good Afternoon');```
+    - js will run where it is places in html
 
-# Basic Javascript instruction #
+- # Basic Javascript instruction #
+    - each individual instruction, line of code, is a _statement_, highlighted green
+    - pink curly brackets indicate a code block, often multiple statements
+    - comments
+     > //single line comment
+     > /*multi line comment */
+    - a _variable_ temporarily stores data for use in the script
+      - variables must be declared using var
+      > var variable-name
+      - assign a value with =
+      > variable-name = value
+    - Data types
+     - number
+     - string, must in quotes
+     - boolean, true or false
+
